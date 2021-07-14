@@ -2,7 +2,7 @@
 
 ###### 1.Visual Studio Code -
 
-[https://code.visualstudio.com/](https://code.visualstudio.com/)
+<a href="https://https://code.visualstudio.com/" target="_blank">https://code.visualstudio.com/</a>()<a href="https://www.jianshu.com/u/1f5ac0cf6a8b" target="_blank">简书</a>
 
 ###### 2.DCloud - HBuilder 快应
 
